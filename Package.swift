@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "cybertron",
-            url: "https://github.com/deepoke/cybertron-chat/blob/main/cybertron-1.0.17.zip",
-            checksum: "f75e0c826c5ac6b772c71315d81180cb979faf2597fc9cfe305603af52eaf162"
+            url: "https://github.com/garlapatisatish/Cybertron_test/blob/main/cybertron.xcframework.zip",
+            checksum: "473a25a4b9e87a2fcfdc2510ab23754d520d05c856f397f0c0de6213badbf854"
         ),
     ]
 )
